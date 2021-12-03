@@ -46,9 +46,9 @@ void leeDatosSerie(string &_id, string &_titulo, int &_duracion, string &_genero
 }
 ````
 
-[title](https://www.markdownguide.org/cheat-sheet/)
+[markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
 
-![alt text](paisaje.jpg)
+![Montañas Odle (Italia)](paisaje.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
